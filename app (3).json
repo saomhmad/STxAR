@@ -3,9 +3,9 @@
     "description": "اهلا بكم في تنصيب النشر التلقائي الخاص بسورس ليبيا",
     "logo": "",
     "stack": "container",
-    "repository": "https://t.me/jepthon",
+    "repository": "https://t.me/ggqgg",
     "keywords": ["python", "chatbot", "telegrambot"],
-    "website": "https://t.me/jepthon",
+    "website": "https://t.me/gggqgg",
     "env": {
         "SESSION": {
             "description": "ضع كود التيرمكس الذي استخرجته من بوت ليبيا",
