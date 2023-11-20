@@ -1,0 +1,27 @@
+{
+    "name": "حسـ313ـو",
+    "description": "اهلا بكم في تنصيب النشر التلقائي الخاص بسورس الجوكر",
+    "logo": "",
+    "stack": "container",
+    "repository": "https://t.me/jepthon",
+    "keywords": ["python", "chatbot", "telegrambot"],
+    "website": "https://t.me/jepthon",
+    "env": {
+        "SESSION": {
+            "description": "ضع كود التيرمكس الذي استخرجته من بوت الجوكر",
+            "value": "",
+            "required": true
+        },
+        "APP_ID": {
+            "description": "ضع ابب ايدي المكون من 6 ارقام",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ضع ابب هاش المكون من ارقام وحروف",
+            "value": "",
+            "required": true
+        }
+    },
+    "automatic_deploy": false
+}
