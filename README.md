@@ -1,2 +1,0 @@
-# STxAR
-Source published automatically 
